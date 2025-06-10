@@ -1,7 +1,7 @@
 import crypto from 'crypto';
 
 const USERS = [
-  { id: '1', username: 'kate', password: 'kate' },
+  { id: '1', username: 'Kate', password: 'MySuperSecurePwd123' },
 ];
 
 const sessions = new Map(); // sessionToken => { userId, expires }
