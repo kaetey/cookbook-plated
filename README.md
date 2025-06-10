@@ -1,7 +1,5 @@
 # Link to Vercel hosted project
-```
 [https://cookbook-plated.vercel.app/](https://cookbook-plated.vercel.app)
-```
 
 # Svelte library
 
